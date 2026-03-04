@@ -175,7 +175,7 @@ jupyter notebook Accident_Hotspot_Detection.ipynb
 
 ## 📄 Full Documentation
 
-See [`Project_Documentation.pdf`](./Project_Documentation.pdf) for complete methodology, classification reports, and map screenshots.
+See [`AML_Project_documentation.pdf`](./AML_Project_documentation.pdf) for complete methodology, classification reports, and map screenshots.
 
 ---
 
